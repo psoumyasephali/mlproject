@@ -6,3 +6,4 @@ scikit-learn
 catboost
 xgboost
 # -e .    # automatically trigger setup.py file
+dill
